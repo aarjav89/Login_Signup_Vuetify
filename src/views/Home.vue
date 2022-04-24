@@ -50,10 +50,10 @@
 
                         <v-col cols="12" md="4" class="teal accent-3">
                             <v-card-text class="white--text mt-12">
-                              <h1 class="text-center display-1">Hello Friends !</h1>
+                              <h1 class="text-center display-1">Don't have an account with us ? No problem !</h1>
                               <h5 class="text-center">Enter your personal credentials and start accesing your leads with us !</h5>
                             </v-card-text>
-                          <div class="text-center">
+                          <div class="text-center mb-2">
                             <v-btn rounded outlined dark @click="step++">Sign Up</v-btn>
                           </div>
                         </v-col>
@@ -64,8 +64,8 @@
                         <v-row class="fill-height">
                           <v-col cols="12" md="4" class="teal accent-3">
                             <v-card-text class="white--text mt-12">
-                              <h1 class="text-center display-1">Welcome Back !</h1>
-                              <h5 class="text-center">To stay connected with us please login with your personal info !</h5>
+                              <h1 class="text-center display-1">Lets get you registered !</h1>
+                              <h5 class="text-center">To stay connected with us please login with your personal info ! If you already have an account with us, simply sign-in below !</h5>
                             </v-card-text>
 
                             <div class="text-center mb-3">
